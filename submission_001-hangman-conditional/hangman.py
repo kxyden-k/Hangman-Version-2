@@ -63,4 +63,3 @@ def run_game(file_name):
 if __name__ == "__main__":
     words_file = ask_file_name()
     run_game(words_file)
-
